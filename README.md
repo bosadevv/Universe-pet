@@ -131,32 +131,61 @@ CREATE TABLE agendamentos (
 );
 ```
 <br>
-## Estrutura EX
-📦 universe-pet/
-├── 📁 assets/
-│   ├── 📁 css/
-│   ├── 📁 js/
-│   ├── 📁 images/
-│   └── 📁 uploads/
-├── 📁 pages/
-│   ├── 📁 index/
-│   ├── 📁 meus-pets/
-│   │   ├── 📁 agendamento/
+# 📦 Universe Pet
+
+> Estrutura principal do projeto **Universe Pet**
+
+---
+
+## 🗂️ Estrutura de Pastas
+
+```bash
+📦 universe-pet
+├── 📁 assets
+│   ├── 📁 css
+│   ├── 📁 js
+│   ├── 📁 images
+│   └── 📁 uploads
+│
+├── 📁 pages
+│   ├── 📁 index
+│   ├── 📁 meus-pets
+│   │   ├── 📁 agendamento
 │   │   │   ├── 📄 agendar_form.php
 │   │   │   ├── 📄 salvar_agendamento.php
 │   │   │   └── 📄 excluir_agendamento.php
+│   │   │
 │   │   └── 📄 index.php
-│   ├── 📁 pets-perdidos/
-│   ├── 📁 doacao/
-│   ├── 📁 pet-shops/
-│   ├── 📁 blog/
-│   └── 📁 aprenda/
-├── 📁 includes/
+│   │
+│   ├── 📁 pets-perdidos
+│   ├── 📁 doacao
+│   ├── 📁 pet-shops
+│   ├── 📁 blog
+│   └── 📁 aprenda
+│
+├── 📁 includes
 │   ├── 📄 conexao.php
 │   ├── 📄 header.php
 │   └── 📄 footer.php
+│
 ├── 📄 index.php
 ├── 📄 login.php
 ├── 📄 cadastro.php
 └── 📄 README.md
+```
+
+---
+
+## 🧩 Organização do Projeto
+
+| Pasta / Arquivo | Descrição |
+|-----------------|------------|
+| `assets/` | Arquivos estáticos (CSS, JS, imagens e uploads) |
+| `pages/` | Páginas principais do sistema |
+| `includes/` | Componentes reutilizáveis (conexão, header e footer) |
+| `index.php` | Página inicial |
+| `login.php` | Página de login |
+| `cadastro.php` | Página de cadastro |
+
+---
 
