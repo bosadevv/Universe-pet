@@ -30,7 +30,7 @@
   
   ### 📱 Versão Mobile
   
-  ![Mobile Preview](https://via.placeholder.com/300x600/ffbcb7/ffffff?text=Universe+Pet+Mobile)
+  ![Mobile Preview](https://i.ibb.co/SDGZPZXk/image.png)
   
 </div>
 
