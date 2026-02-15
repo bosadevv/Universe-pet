@@ -91,7 +91,7 @@ O **Universe Pet** é um sistema web completo desenvolvido para ajudar tutores d
 - ✅ Filtros com scroll horizontal
 - ✅ Imagens responsivas
 
-## 🛠️ Estrutura do Banco de Dados
+## 🛠️ Estrutura do Banco de Dados (incompleta)
 
 ```sql
 -- Tabela de usuários
@@ -129,3 +129,34 @@ CREATE TABLE agendamentos (
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id),
     FOREIGN KEY (pet_id) REFERENCES pets(id)
 );
+```
+<br>
+## Estrutura EX
+📦 universe-pet/
+├── 📁 assets/
+│   ├── 📁 css/
+│   ├── 📁 js/
+│   ├── 📁 images/
+│   └── 📁 uploads/
+├── 📁 pages/
+│   ├── 📁 index/
+│   ├── 📁 meus-pets/
+│   │   ├── 📁 agendamento/
+│   │   │   ├── 📄 agendar_form.php
+│   │   │   ├── 📄 salvar_agendamento.php
+│   │   │   └── 📄 excluir_agendamento.php
+│   │   └── 📄 index.php
+│   ├── 📁 pets-perdidos/
+│   ├── 📁 doacao/
+│   ├── 📁 pet-shops/
+│   ├── 📁 blog/
+│   └── 📁 aprenda/
+├── 📁 includes/
+│   ├── 📄 conexao.php
+│   ├── 📄 header.php
+│   └── 📄 footer.php
+├── 📄 index.php
+├── 📄 login.php
+├── 📄 cadastro.php
+└── 📄 README.md
+
