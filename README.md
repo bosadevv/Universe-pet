@@ -26,7 +26,7 @@
   
   ### 📱 Versão Desktop
   
-  ![Desktop Preview](https://via.placeholder.com/800x400/ffbcb7/ffffff?text=Universe+Pet+Desktop)
+  ![Desktop Preview](https://ibb.co/7N461DyX"><img src="https://i.ibb.co/WptY2XK6/image.png)
   
   ### 📱 Versão Mobile
   
