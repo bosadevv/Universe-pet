@@ -11,8 +11,8 @@
   
   <h3>🐶 Seu assistente completo para cuidar do seu melhor amigo 🐱</h3>
   
-  [🔗 Acesse o Projeto](#) • 
-  [📋 Documentação](#) • 
+  [🔗 Acesse o Projeto](https://universepet.com.br) • 
+  [📋 Politica de Privacidade](https://universepet.com.br/privacy/) • 
   [🐛 Reportar Bug](#) • 
   [✨ Solicitar Feature](#)
   
